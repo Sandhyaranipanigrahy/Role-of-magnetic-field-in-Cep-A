@@ -1,1 +1,1 @@
-This repository includes the data used to carry out the analysis in the manuscript NATASTRON-24101058. 
+This repository includes the data used to carry out the analysis in the manuscript NATASTRON-24101058. The cepA_2sigma.csv file contains the catalogue including RA, DEC, P(% of polarization), ANG (B-field PA) and the corresponding errors. 
